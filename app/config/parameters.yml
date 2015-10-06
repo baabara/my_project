@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: blogsymfony2
+    database_user: blogsymfony2
+    database_password: blogsymfony2
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: 303c2a59f35f47b688a0919f592d5f0558f96e90
